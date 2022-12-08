@@ -1,2 +1,2 @@
 # random_tools
-collections of random tools / scripts / hins
+collections of random tools / scripts / hints
