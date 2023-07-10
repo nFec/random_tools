@@ -54,7 +54,6 @@ def main(dir1, dir2):
     click.echo("Summary:")
     click.echo(f"Total mismatched files: {len(mismatched_files)}")
     click.echo(f"Total missing files: {len(missing_files)}")
-    click.echo(f"Missing: {missing_files}")
     click.echo(f"Total multiples: {len(multiples)}")
     click.echo(f"Multiples: {multiples}")
 
